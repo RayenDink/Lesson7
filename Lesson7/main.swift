@@ -1,4 +1,3 @@
-//
 //  main.swift
 //  Lesson7
 //
